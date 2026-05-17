@@ -1,13 +1,3 @@
-
----
-
-## Für das Repository `Join-Public`
-
-**Copy den gesamten Block unten:**
-
-```markdown
-# 📋 Join-Public
-
 [![Website](https://img.shields.io/badge/Live_Demo-join.oguzhan--yavuz.com-brightgreen?logo=google-chrome)](https://join.oguzhan-yavuz.com/login)
 [![Language](https://img.shields.io/badge/HTML-47.1%25-E34F26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-34.3%25-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
